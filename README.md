@@ -1,1 +1,1 @@
-These are my basic-level Python codes that helps in lreaning Python.
+These are my basic-level Python codes that helps in learning Python.
